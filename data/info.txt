@@ -1,0 +1,2 @@
+There are payed weather data for freiburg and emmendingen. Legally these files are kept local.
+And they can be find on my Data-Repository (only for me).
